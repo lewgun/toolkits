@@ -1,3 +1,5 @@
+
+//http://studygolang.com/articles/1518
 package main
 
 import (
