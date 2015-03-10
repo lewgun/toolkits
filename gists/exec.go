@@ -1,4 +1,5 @@
 package main
+
 //http://www.golangtc.com/t/5440fe60421aa946910000a2
 
 /*
@@ -12,21 +13,20 @@ int main() {
 */
 
 import (
-    "bytes"
-    "fmt"
-    "os/exec"
+	"bytes"
+	"fmt"
+	"os/exec"
 )
 
 func main() {
-    cmd := exec.Command("./fail")
-    w := &bytes.Buffer{}
-    cmd.Stderr = w
+	cmd := exec.Command("./fail")
+	w := &bytes.Buffer{}
+	cmd.Stderr = w
+	if err := cmd.Run(); err != nil {
+		fmt.Printf("Run returns: %s\n", err)
+	}
 
-    if err := cmd.Run(); err != nil {
-        fmt.Printf("Run returns: %s\n", err )
-    }
-
-    fmt.Printf("Stderr: %s\n", string(w.Bytes()))
+	fmt.Printf("Stderr: %s\n", string(w.Bytes()))
 
 }
 
