@@ -1,0 +1,43 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;toolkits&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../ji" />
+      <root url="file://$PROJECT_DIR$/../../../test" />
+      <root url="file://$PROJECT_DIR$/../../../.idea" />
+      <root url="file://$PROJECT_DIR$/../../../greet" />
+      <root url="file://$PROJECT_DIR$/../../../light" />
+      <root url="file://$PROJECT_DIR$/../../../ossDB" />
+      <root url="file://$PROJECT_DIR$/../../../WebIM" />
+      <root url="file://$PROJECT_DIR$/../../../packer" />
+      <root url="file://$PROJECT_DIR$/../../../gopkg.in" />
+      <root url="file://$PROJECT_DIR$/../../../labix.org" />
+      <root url="file://$PROJECT_DIR$/../../nsf" />
+      <root url="file://$PROJECT_DIR$/../../alyu" />
+      <root url="file://$PROJECT_DIR$/../../bitly" />
+      <root url="file://$PROJECT_DIR$/../../spf13" />
+      <root url="file://$PROJECT_DIR$/../../golang" />
+      <root url="file://$PROJECT_DIR$/../zturn" />
+      <root url="file://$PROJECT_DIR$/../../astaxie" />
+      <root url="file://$PROJECT_DIR$/../../go-xorm" />
+      <root url="file://$PROJECT_DIR$/../../gorilla" />
+      <root url="file://$PROJECT_DIR$/../../huichen" />
+      <root url="file://$PROJECT_DIR$/../../gopherjs" />
+      <root url="file://$PROJECT_DIR$/../../jlaffaye" />
+      <root url="file://$PROJECT_DIR$/../../msbranco" />
+      <root url="file://$PROJECT_DIR$/../../neelance" />
+      <root url="file://$PROJECT_DIR$/../../nu7hatch" />
+      <root url="file://$PROJECT_DIR$/../../streadway" />
+      <root url="file://$PROJECT_DIR$/../../prestonTao" />
+      <root url="file://$PROJECT_DIR$/../../codegangsta" />
+      <root url="file://$PROJECT_DIR$/../../go-sql-driver" />
+      <root url="file://$PROJECT_DIR$/../../disintegration" />
+      <root url="file://$PROJECT_DIR$/../../../golang.org" />
+      <root url="file://$PROJECT_DIR$/../../../platclient" />
+      <root url="file://$PROJECT_DIR$/../../../platserver" />
+      <root url="file://$PROJECT_DIR$/../../../bitbucket.org" />
+      <root url="file://$PROJECT_DIR$/../../../code.google.com" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
