@@ -19,6 +19,7 @@
       <root url="file://$PROJECT_DIR$/../../golang" />
       <root url="file://$PROJECT_DIR$/../dht" />
       <root url="file://$PROJECT_DIR$/../gxui" />
+      <root url="file://$PROJECT_DIR$/../mfdc" />
       <root url="file://$PROJECT_DIR$/../zturn" />
       <root url="file://$PROJECT_DIR$/../DhtCrawler" />
       <root url="file://$PROJECT_DIR$/../Taipei-Torrent" />
@@ -29,6 +30,7 @@
       <root url="file://$PROJECT_DIR$/../../jackpal" />
       <root url="file://$PROJECT_DIR$/../../nictuku" />
       <root url="file://$PROJECT_DIR$/../../youtube" />
+      <root url="file://$PROJECT_DIR$/../../cheggaaa" />
       <root url="file://$PROJECT_DIR$/../../gopherjs" />
       <root url="file://$PROJECT_DIR$/../../hailiang" />
       <root url="file://$PROJECT_DIR$/../../jlaffaye" />
@@ -37,6 +39,7 @@
       <root url="file://$PROJECT_DIR$/../../nu7hatch" />
       <root url="file://$PROJECT_DIR$/../../streadway" />
       <root url="file://$PROJECT_DIR$/../../xiaojiong" />
+      <root url="file://$PROJECT_DIR$/../../olekukonko" />
       <root url="file://$PROJECT_DIR$/../../prestonTao" />
       <root url="file://$PROJECT_DIR$/../../codegangsta" />
       <root url="file://$PROJECT_DIR$/../../go-sql-driver" />
