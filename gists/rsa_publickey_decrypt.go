@@ -20,7 +20,7 @@ var (
 )
 
 const (
-//MaxDataLen max data single decrypt data length.
+	//MaxDataLen max data single decrypt data length.
 	maxDataLen = 128
 )
 
@@ -152,4 +152,5 @@ AjGMQbY+ML/P3CDSuJPN6yOk4XRmzvMrNFmI=`)
 
 	buf, _ := RSAPublicKeyDecryptBase64(publicKey, data)
 	fmt.Println(string(buf))
+	base64.StdEncoding.DecodeString()
 }
