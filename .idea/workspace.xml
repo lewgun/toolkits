@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ef328cb1-28bf-4dbc-a8ff-7c3d90be5b6b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gists/ch.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gists/fsm.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/GOPATH__toolkits_.xml" afterPath="$PROJECT_DIR$/.idea/libraries/GOPATH__toolkits_.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MOVED" beforePath="D:\Projects\local\src\github.com\lewgun\toolkits\gists\ch.go" afterPath="$PROJECT_DIR$/gists/consistent_hashing.go" />
     </list>
     <ignored path="toolkits.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -54,8 +57,8 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="asyncTosync.go" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gists/asyncTosync.go">
+      <file leaf-file-name="async_2_sync.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gists/async_2_sync.go">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
@@ -64,13 +67,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ch.go" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/gists/ch.go">
+      <file leaf-file-name="consistent_hashing.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gists/consistent_hashing.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.03786575">
-              <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="fsm.go" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/gists/fsm.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.07419899">
+              <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
               <folding>
-                <element signature="e#104#154#0" expanded="true" />
+                <element signature="e#72#89#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -137,6 +150,7 @@
         <option value="$PROJECT_DIR$/gists/rsa_publickey_decrypt.go" />
         <option value="$PROJECT_DIR$/gists/asyncTosync.go" />
         <option value="$PROJECT_DIR$/gists/ch.go" />
+        <option value="$PROJECT_DIR$/gists/fsm.go" />
       </list>
     </option>
   </component>
@@ -151,9 +165,10 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="83" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
     <option name="width" value="1936" />
-    <option name="height" value="1039" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -181,7 +196,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -218,6 +232,7 @@
       </pane>
       <pane id="PackagesPane" />
       <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -459,12 +474,24 @@
       <option name="project" value="LOCAL" />
       <updated>1430276407901</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="consistent hashing">
+      <created>1430373983528</created>
+      <option name="number" value="00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1430373983528</updated>
+    </task>
+    <task id="LOCAL-00006" summary="async implments  sync">
+      <created>1430374039558</created>
+      <option name="number" value="00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1430374039558</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="83" y="0" width="1936" height="1039" extended-state="0" />
-    <editor active="false" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -473,7 +500,7 @@
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32929516" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32893288" sideWeight="0.54211086" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32829374" sideWeight="0.54211086" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1652452" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -507,8 +534,10 @@
     <MESSAGE value="add singleton &amp; refcounted" />
     <MESSAGE value="add event &amp; reflect" />
     <MESSAGE value="add decrypt by rsa public key" />
+    <MESSAGE value="consistent hashing" />
     <MESSAGE value="async implments  sync" />
-    <option name="LAST_COMMIT_MESSAGE" value="async implments  sync" />
+    <MESSAGE value="fsm" />
+    <option name="LAST_COMMIT_MESSAGE" value="fsm" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -519,14 +548,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/gists/event.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/gists/__FILE__and__LINE__.go">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -876,7 +897,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gists/asyncTosync.go">
+    <entry file="file://$PROJECT_DIR$/gists/async_2_sync.go">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
@@ -884,12 +905,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gists/ch.go">
+    <entry file="file://$PROJECT_DIR$/gists/consistent_hashing.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.03786575">
-          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gists/fsm.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.07419899">
+          <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
           <folding>
-            <element signature="e#104#154#0" expanded="true" />
+            <element signature="e#72#89#0" expanded="true" />
           </folding>
         </state>
       </provider>

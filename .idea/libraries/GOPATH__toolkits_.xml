@@ -27,12 +27,9 @@
       <root url="file://$PROJECT_DIR$/../../golang/lintx/testdata" />
       <root url="file://$PROJECT_DIR$/../../../code.google.com/p/go.tools/cmd/cover/testdata" />
       <root url="file://$PROJECT_DIR$/../../golang/lintx/.git" />
-      <root url="file://$PROJECT_DIR$/../../../bitbucket.org/lewgun/yorm/yorm/.idea" />
-      <root url="file://$PROJECT_DIR$/../../../bitbucket.org/lewgun/yorm/.idea" />
       <root url="file://$PROJECT_DIR$/../../../golang.org/x/tools/cmd/callgraph/testdata" />
       <root url="file://$PROJECT_DIR$/../../../platclient/Android/MFSDK/37MEIZU_plat/.settings" />
       <root url="file://$PROJECT_DIR$/../../../platserver/lib/golang.org/x/tools/.hg" />
-      <root url="file://$PROJECT_DIR$/../../../bitbucket.org/lewgun/yorm/yorm/.git" />
       <root url="file://$PROJECT_DIR$/../../gorilla/websocket/.git" />
       <root url="file://$PROJECT_DIR$/../../../platclient/Android/MFSDK/Lenovo/.settings" />
       <root url="file://$PROJECT_DIR$/../../cheggaaa/pb/.git" />
@@ -40,7 +37,6 @@
       <root url="file://$PROJECT_DIR$/../../../platclient/Android/OSS/mf_analytics/.settings" />
       <root url="file://$PROJECT_DIR$/../../../platclient/Android/FeedBack/MFFeedBackSDK/.settings" />
       <root url="file://$PROJECT_DIR$/../../../platclient/Android/MFSDK/WDJ/.settings" />
-      <root url="file://$PROJECT_DIR$/../../../bitbucket.org/lewgun/yorm - 副本/.idea" />
       <root url="file://$PROJECT_DIR$/../../olekukonko/ts/.git" />
       <root url="file://$PROJECT_DIR$/../../../platclient/Android/MFSDK/VIVO_plat/.settings" />
       <root url="file://$PROJECT_DIR$/../../../platclient/Android/MFShareSDK/share-demo/.idea" />
@@ -49,7 +45,6 @@
       <root url="file://$PROJECT_DIR$/../../nsf/gocode/_gccgo" />
       <root url="file://$PROJECT_DIR$/../../../platclient/Android/MFShareSDK/share-demo/.settings" />
       <root url="file://$PROJECT_DIR$/../../../platserver/lib/golang.org/x/tools/go/ssa/testdata" />
-      <root url="file://$PROJECT_DIR$/../../../bitbucket.org/lewgun/yorm - 副本/.git" />
       <root url="file://$PROJECT_DIR$/../../nsf/gocode/_goremote" />
       <root url="file://$PROJECT_DIR$/../../../platserver/lib/golang.org/x/tools/oracle/testdata" />
       <root url="file://$PROJECT_DIR$/../../nsf/gocode/_testing" />
@@ -115,7 +110,6 @@
       <root url="file://$PROJECT_DIR$/../../../platserver/lib/github.com/huichen/sego/testdata" />
       <root url="file://$PROJECT_DIR$/../../../platclient/Android/MFSDK/1937mfsdkgame_new/Game1737/.settings" />
       <root url="file://$PROJECT_DIR$/../../../golang.org/x/tools/refactor/eg/testdata" />
-      <root url="file://$PROJECT_DIR$/../mfdc - 副本/.idea" />
       <root url="file://$PROJECT_DIR$/../../MieYua/Aliyun-OSS-Go-SDK/.git" />
       <root url="file://$PROJECT_DIR$/../../../platclient/Android/OSS/MFUpdate/.settings" />
       <root url="file://$PROJECT_DIR$/../../../code.google.com/p/go.tools/go/ssa/interp/testdata" />
@@ -151,7 +145,6 @@
       <root url="file://$PROJECT_DIR$/../../neelance/sourcemap/.git" />
       <root url="file://$PROJECT_DIR$/../../../platclient/Android/渠道sdk/dangle_3.0.5/.settings" />
       <root url="file://$PROJECT_DIR$/../../nu7hatch/gouuid/.git" />
-      <root url="file://$PROJECT_DIR$/../mfdc - 副本/.git" />
       <root url="file://$PROJECT_DIR$/../zturn/.idea" />
       <root url="file://$PROJECT_DIR$/../zturn/.git" />
       <root url="file://$PROJECT_DIR$/../../../platserver/lib/golang.org/x/tools/cmd/vet/testdata" />
@@ -165,6 +158,7 @@
       <root url="file://$PROJECT_DIR$/../../../code.google.com/p/go.tools/go/loader/testdata" />
       <root url="file://$PROJECT_DIR$/../../../platclient/Android/渠道sdk/mfsdk/.settings" />
       <root url="file://$PROJECT_DIR$/../../../golang.org/x/tools/go/callgraph/rta/testdata" />
+      <root url="file://$PROJECT_DIR$/../yorm/.git" />
       <root url="file://$PROJECT_DIR$/../../../platclient/.git" />
       <root url="file://$PROJECT_DIR$/../../streadway/amqp/.git" />
       <root url="file://$PROJECT_DIR$/../../../platclient/Android/MFSDK/MFSDKDemo2/.settings" />
@@ -188,6 +182,7 @@
       <root url="file://$PROJECT_DIR$/../../../golang.org/x/tools/cmd/vet/testdata" />
       <root url="file://$PROJECT_DIR$/../../../platclient/Android/MFSDK/1737Game_mfsdk/.settings" />
       <root url="file://$PROJECT_DIR$/../../../code.google.com/p/go.tools/go/callgraph/cha/testdata" />
+      <root url="file://$PROJECT_DIR$/../../crawshaw/balloon/.git" />
       <root url="file://$PROJECT_DIR$/../../codegangsta/cli/.git" />
       <root url="file://$PROJECT_DIR$/../../../code.google.com/p/go.tools/go/callgraph/rta/testdata" />
       <root url="file://$PROJECT_DIR$/../../../platclient/Android/MFSDK/FaceBook/.settings" />
@@ -203,6 +198,7 @@
       <root url="file://$PROJECT_DIR$/../../zeebo/bencode/.git" />
       <root url="file://$PROJECT_DIR$/../../go-sql-driver/mysql/.git" />
       <root url="file://$PROJECT_DIR$/../../golang/glog/.git" />
+      <root url="file://$PROJECT_DIR$/../yorm/.idea" />
       <root url="file://$PROJECT_DIR$/../../../gopkg.in/mgo.v2/.git" />
       <root url="file://$PROJECT_DIR$/../../golang/lint/testdata" />
       <root url="file://$PROJECT_DIR$/../../golang/lint/.git" />
@@ -214,6 +210,7 @@
       <root url="file://$PROJECT_DIR$/../../../platclient/Android/MFShareSDK/MFShareSDK/.settings" />
       <root url="file://$PROJECT_DIR$/../../../platclient/Android/MFShareSDK/MF_ShareLib/.settings" />
       <root url="file://$PROJECT_DIR$/../mfdc/.idea" />
+      <root url="file://$PROJECT_DIR$/../mobile/.idea" />
       <root url="file://$PROJECT_DIR$/../../../platclient/Android/MFSDK/Baidu_plat/.settings" />
       <root url="file://$PROJECT_DIR$/../../disintegration/imaging/.git" />
       <root url="file://$PROJECT_DIR$/../mfdc/.git" />
