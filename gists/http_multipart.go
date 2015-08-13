@@ -3,8 +3,8 @@ package main
 import (
 	"fmt"
 	"io"
-	"net/http"
 	"log"
+	"net/http"
 	"os"
 )
 

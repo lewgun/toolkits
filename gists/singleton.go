@@ -1,28 +1,28 @@
 package singleton
 
 import (
-"fmt"
+	"fmt"
 )
 
 type Singleton interface {
-    SaySomething()
+	SaySomething()
 }
 
 type singleton struct {
-    text string
+	text string
 }
 
 var oneSingleton Singleton
 
 func NewSingleton(text string) Singleton {
-    if oneSingleton == nil {
-        oneSingleton = &singleton{
-        text: text,
-        }
-    }
-    return oneSingleton
+	if oneSingleton == nil {
+		oneSingleton = &singleton{
+			text: text,
+		}
+	}
+	return oneSingleton
 }
 
 func (this *singleton) SaySomething() {
-    fmt.Println(this.text)
+	fmt.Println(this.text)
 }
