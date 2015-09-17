@@ -12,9 +12,9 @@ import (
 )
 
 const (
-	CLIENT_SECRET = "SgL8YOaB_MsdVNaV4drQ9Qxg"
+	CLIENT_SECRET = "your client secret"
 	REDIRECT_URL  = "http://127.0.0.1:8080/oauth2/callback"
-	CLIENT_ID     = "730583430805-f2a2e2sg0dqp74m5gps1l6el1g6emb49.apps.googleusercontent.com"
+	CLIENT_ID     = "your cleint key "
 
 	// random string for oauth2 API calls to protect against CSRF
 	OAuth2State = "oversea_agent_state"
